@@ -1,7 +1,5 @@
 # 🎮 BetaalMania
 
-![BetaalMania screenshot](https://imgs.search.brave.com/mes4XYswQEF6TxoavHYDSj6_SqIZQmuoxiLC7Kemq6s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nYW1h/dmVyc2UuY29tL2Mv/aS9nL3BpeGVsLXpv/bWJpZS1zaG9vdGVy/LTIwMTcuanBnPzE0/OTIwNjU3NDg)
-
 ## Overview
 BetaalMania is a fast‑paced 2D top‑down shooter where you pilot a lone hero against endless waves of enemies in a neon‑lit arena. Built as a university lab assignment, the game showcases modern C++ graphics programming using **OpenGL**, **GLUT**, and **SDL2**, wrapped in a clean CMake build system.
 
